@@ -70,7 +70,7 @@ global.limitawal = {
 
 global.readMore = readMore
 global.author = 'Leon' //ganti aja cuyyy
-global.namebot = ''SOUTA-Md' //nama 
+global.namebot = 'SOUTA-Md' //nama 
 global.wm = '© SOUTA-Md' //ganti aja
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg' //bebas
 global.wm = 'SOUTA-Md ' //wm nyaa kocak
