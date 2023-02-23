@@ -45,18 +45,18 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727733', 'Amelia-MD', true],
+['6287760550924', 'Leon-MD', true],
 ]
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
 global.mods = []
 global.prems = []
-global.nomorbot = '6283863727740'
-global.nameown = 'PutraModz'
-global.nomorown = '6283863727733'
-global.nomorown1 = '6282214729677'
-global.nomorown2 = '6282214729677'
+global.nomorbot = '6287760550924'
+global.nameown = 'Leon'
+global.nomorown = '6287760550924'
+global.nomorown1 = '6287760550924'
+global.nomorown2 = '6287760550924'
 global.nomorwa = '0'
 global.limitawal = {
 
@@ -69,34 +69,34 @@ global.limitawal = {
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'PutraModz' //ganti aja cuyyy
-global.namebot = '​Amelia-Md' //nama bot luh
-global.wm = '© Amelia-Md' //ganti aja
+global.author = 'Leon' //ganti aja cuyyy
+global.namebot = ''SOUTA-Md' //nama bot luh
+global.wm = '© SOUTA-Md' //ganti aja
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg' //bebas
-global.wm = 'Amelia-Md ' //wm nyaa kocak
+global.wm = 'SOUTA-Md ' //wm nyaa kocak
 global.watermark = wm //bebas
-global.wm2 = 'PutraModz' //ganti ajaa 
+global.wm2 = 'LEON' //ganti ajaa 
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`//ga usah dehhh 
 global.bottime = `T I M E : ${wktuwib}` //ini juga ga usah 
-global.titlebot = `Amelia-Md | PutraModz` //gantu aja
-global.stickpack = 'Amelia-Modz' //ganti 
-global.stickauth = `© Amelia-Md` //gantii 
+global.titlebot = `SOUTA-Md | LEON` //gantu aja
+global.stickpack = 'SOUTA-Modz' //ganti 
+global.stickauth = `© SOUTA-Md` //gantii 
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Amelia Putri septiany' //ganti 
-global.nameown2 = 'PutraModz' //ganti 
+global.nameown1= 'Fahri' //ganti 
+global.nameown2 = 'leon' //ganti 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Tunggu Sebentar Kak...'
-global.lynk = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'//ganti jadi link gc luh
+global.lynk = 'https://chat.whatsapp.com/IUPtqrnxzmA1KQZqFusCqA jadi link gc luh
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/l4c1f2r' //ganti jadi ig mu
-global.sgh = 'https://github.com/Lucife-Putra' //github
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
+global.sig = 'https://instagram.com/xxsmile_world' //ganti jadi ig mu
+global.sgh = 'https://github.com/SAKUTA123' //github
+global.sgc = 'https://chat.whatsapp.com/IUPtqrnxzmA1KQZqFusCqA' //group whatsapp
 global.sdc = '-' //discord klo ga punya ga usah biarin aja
-global.snh = 'https://youtube.com/@Putra_Modz_' //yt klo punya 
+global.snh = 'https://youtube.com/@leonnob2820' //yt klo punya 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.pdana = 'Chat Owner !!'
@@ -105,7 +105,7 @@ global.pgopay = 'Chat owner !!'
 global.plinkaja = '-' //link aja
 global.ppulsa = 'Chat owner !!'
 global.ppulsa2 = 'Chat owner !!'
-global.psaweria = 'https://telegra.ph/file/98338a583efeb3d34a70b.jpg'
+global.psaweria = 'https://telegra.ph/file/c715dc77bbb2e90fc68cd.jpg'
 
 //bebas cuyyy yg atas mahh 
 
@@ -534,16 +534,16 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = '?????????'
-global.urlnya = "https://www.instagram.com/l4c1f2r"
+global.urlnya = "https://instagram.com/xxsmile_world"
 global.dtc = '???? ?????'
-global.phn = '0822 1472-9677'
+global.phn = '0877 6055-0924'
 
 
 //?? 肓??????帕 ? JNGN DI UBAH ? 帕??????肓 ??
 
 global.fsizedoc = '99999999999999'
 global.fpagedoc = '999'
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/c715dc77bbb2e90fc68cd.jpg'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
