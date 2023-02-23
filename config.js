@@ -88,7 +88,7 @@ global.nameown1= 'Fahri' //ganti
 global.nameown2 = 'leon' //ganti 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Tunggu Sebentar Kak...'
-global.lynk = 'https://chat.whatsapp.com/IUPtqrnxzmA1KQZqFusCqA jadi link gc luh
+global.lynk = 'https://chat.whatsapp.com/IUPtqrnxzmA1KQZqFusCqA' jadi link gc luh
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
